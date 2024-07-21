@@ -1,1 +1,1 @@
-You can check the website -> https://daniaabuali.github.io/TourNest/
+You can check out the website -> https://daniaabuali.github.io/TourNest/
